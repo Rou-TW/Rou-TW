@@ -1,2 +1,2 @@
 while 1:
-    print("My youth is Young.")
+    print("My youth is Young's.")
